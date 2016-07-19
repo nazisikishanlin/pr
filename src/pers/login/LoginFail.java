@@ -15,6 +15,7 @@ public class LoginFail {
 	public void openBrower(){
 		this.dr=new FirefoxDriver();
 	}
+	//×¢ÊÍ
 	
 
     public void login(String username,String password){
